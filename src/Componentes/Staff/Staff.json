@@ -1,0 +1,43 @@
+[{
+        "branch": "SomeBranch",
+        "id": 2976,
+        "firstName": "John",
+        "lastName": "Doe",
+        "dateOfBirth": "1985-05-20",
+        "gender": "Male",
+        "address": "123 Main St, Springfield",
+        "celPhone": "555-1234",
+        "telPhone": "555-5678",
+        "email": "john.doe@email.com",
+        "username": "johndoe",
+        "password": "password123",
+        "role": "Staff"
+    }, {
+        "branch": "SomeBranch",
+        "id": 5,
+        "firstName": "1",
+        "lastName": "Doe",
+        "dateOfBirth": "1985-05-20",
+        "gender": "Male",
+        "address": "123 Main St, Springfield",
+        "celPhone": "555-1234",
+        "telPhone": "555-5678",
+        "email": "john.doe@email.com",
+        "username": "johndoe",
+        "password": "password123",
+        "role": "Staff"
+    }, {
+        "branch": "SomeBranch",
+        "id": 16,
+        "firstName": "21312",
+        "lastName": "21321",
+        "dateOfBirth": "--/--/----",
+        "gender": "Male",
+        "address": "12312",
+        "celPhone": "1234567890",
+        "telPhone": "1234567890",
+        "email": "32@ggf.fg",
+        "username": "user22113",
+        "password": "Hamza123123@",
+        "role": "Staff"
+    }]

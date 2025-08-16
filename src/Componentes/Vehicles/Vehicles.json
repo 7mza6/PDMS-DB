@@ -1,0 +1,21 @@
+[{
+        "id": 0,
+        "brand": "Ford",
+        "model": "F-150",
+        "type": "Truck",
+        "licensePlate": "XYZ-5678",
+        "chassisNumber": "1FTFW1ET1EKF51234",
+        "capacity": 3.5,
+        "status": "Under Maintenance",
+        "lastServiceDate": "2024-10-15T14:45:00"
+    }, {
+        "id": 3,
+        "brand": "Honda",
+        "model": "Civic1",
+        "type": "Hatchback",
+        "licensePlate": "DEF-4567",
+        "chassisNumber": "2HGFB2F59CH001234",
+        "capacity": 1.8,
+        "status": "Active",
+        "lastServiceDate": "2024-09-20T12:15:00"
+    }]

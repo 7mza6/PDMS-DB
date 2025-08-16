@@ -1,0 +1,29 @@
+[{
+        "BranchNumber": 1,
+        "BranchName": "213123123",
+        "Locationdata": {
+            "City": "Jenin",
+            "street": "213123123123"
+        }
+    }, {
+        "BranchNumber": 231312,
+        "BranchName": "sdfsdfsdf",
+        "Locationdata": {
+            "City": "Jenin",
+            "street": "sdfsdfsd"
+        }
+    }, {
+        "BranchNumber": 231315,
+        "BranchName": "sdfsdfsdf",
+        "Locationdata": {
+            "City": "Ramallah",
+            "street": "sdfsdfsd"
+        }
+    }, {
+        "BranchNumber": 12312321,
+        "BranchName": "khaders",
+        "Locationdata": {
+            "City": "Bethlehem",
+            "street": "weqe"
+        }
+    }]
